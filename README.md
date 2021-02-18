@@ -1,5 +1,5 @@
 # GaetanoTesi
-Keeping track of Gaetano's Master thesis work
+Keeping track of Gaetano's Master thesis
 
 ## Index
 - [3/Mar/2021 ](#3rd-March-2021)
